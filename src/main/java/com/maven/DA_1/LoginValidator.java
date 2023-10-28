@@ -4,6 +4,12 @@ import java.util.ResourceBundle;
 
 public class LoginValidator {
     private ResourceBundle resourceBundle;
+    
+    // a new function is added
+    public boolean LoginChecker(String st) {
+    	// a new function
+    	return true;
+    }
 
     public LoginValidator() {
         // Load the resource bundle named "config" (config.properties)
