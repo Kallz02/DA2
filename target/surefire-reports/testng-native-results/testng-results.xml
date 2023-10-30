@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-20T15:58:11 IST" name="Surefire suite" finished-at="2023-09-20T15:58:12 IST" duration-ms="223">
+  <suite started-at="2023-10-30T21:16:21 IST" name="Command line suite" finished-at="2023-10-30T21:16:21 IST" duration-ms="28">
     <groups>
     </groups>
-    <test started-at="2023-09-20T15:58:11 IST" name="Surefire test" finished-at="2023-09-20T15:58:12 IST" duration-ms="223">
+    <test started-at="2023-10-30T21:16:21 IST" name="Command line test" finished-at="2023-10-30T21:16:21 IST" duration-ms="28">
       <class name="com.maven.DA_1.LoginValidatorTest">
-        <test-method signature="testInvalidCredentials()[pri:0, instance:com.maven.DA_1.LoginValidatorTest@2638011]" started-at="2023-09-20T15:58:12 IST" name="testInvalidCredentials" finished-at="2023-09-20T15:58:12 IST" duration-ms="58" status="PASS">
+        <test-method signature="testInvalidCredentials()[pri:0, instance:com.maven.DA_1.LoginValidatorTest@289d1c02]" started-at="2023-10-30T21:16:21 IST" name="testInvalidCredentials" finished-at="2023-10-30T21:16:21 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testInvalidCredentials -->
-        <test-method signature="testValidCredentials()[pri:0, instance:com.maven.DA_1.LoginValidatorTest@2638011]" started-at="2023-09-20T15:58:12 IST" name="testValidCredentials" finished-at="2023-09-20T15:58:12 IST" duration-ms="1" status="PASS">
+        <test-method signature="testValidCredentials()[pri:0, instance:com.maven.DA_1.LoginValidatorTest@289d1c02]" started-at="2023-10-30T21:16:21 IST" name="testValidCredentials" finished-at="2023-10-30T21:16:21 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testValidCredentials -->
       </class> <!-- com.maven.DA_1.LoginValidatorTest -->
-    </test> <!-- Surefire test -->
-  </suite> <!-- Surefire suite -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
 </testng-results>
