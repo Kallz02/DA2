@@ -16,7 +16,6 @@ public class LoginValidator {
         resourceBundle = ResourceBundle.getBundle("config");
     }
 
-    // This is a change made by Akshay
 
     public boolean validateCredentials(String username, String password) {
         String actualUsername = resourceBundle.getString("username");
